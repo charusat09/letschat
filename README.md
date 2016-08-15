@@ -7,4 +7,14 @@ This application has following features:
 * RestFULL authentication and chatting  
 * Responsive
 
+System requirement:
+
+* Ruby version : 2.3.1
+
+Setup application on devlopment environment:
+
+* clone application to local
+* bin/setup
+* rails s
+
 Please feel free to fork this repo to add new features. I would love suggestions and comments on this app.
