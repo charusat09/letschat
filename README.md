@@ -17,4 +17,4 @@ Setup application on devlopment environment:
 * bin/setup
 * rails s
 
-Please feel free to fork this repo to add new features. I would love suggestions and comments on this app.
+<i> Please feel free to fork this repo to add new features. I would love suggestions and comments on this app. </i>
